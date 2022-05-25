@@ -1,0 +1,22 @@
+/* Hello! This is the CSS file that controls all of the styling propetries of the 
+site. While the HTML file controls the content, this file disctates fonts, colors,
+and more! */
+
+#nav{
+    background-color:rgb(38, 38, 155);
+    padding: 20px;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+#navLogo{
+    background-color: rgb(254, 145, 3);
+}
+
+#navPages{
+    background-color: chartreuse;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+}
